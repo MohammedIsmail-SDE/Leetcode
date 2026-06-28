@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -12,6 +13,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +22,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0704-binary-search) |
 ## Linked List
 |  |
@@ -29,4 +32,16 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
