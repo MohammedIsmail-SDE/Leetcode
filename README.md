@@ -7,6 +7,7 @@
 | [0189-rotate-array](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
