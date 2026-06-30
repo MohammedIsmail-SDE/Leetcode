@@ -9,6 +9,6 @@ class Solution:
                 return [notebook[need], i]
 
             notebook[num] = i
-
+ 
 
 
