@@ -1,12 +1,13 @@
 class Solution(object):
     def maxSubArray(self, nums):
-        max_sub = nums[0]
-        sum_num = 0
-        for n in nums :
-            if sum_num <= 0 :
-                sum_num = 0
-            sum_num +=n
-            max_sub = max( max_sub ,  sum_num)
-        return max_sub 
+        best = nums[0]
+        running_best = 0
+        for i in nums:
+            running_best += i
+            if running_best > best:
+                best = running_best
+            if running_best < 0:
+                running_best = 0
+        return best
        
         
