@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -36,6 +37,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0704-binary-search) |
 ## Linked List
