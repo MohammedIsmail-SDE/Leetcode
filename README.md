@@ -106,4 +106,20 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
