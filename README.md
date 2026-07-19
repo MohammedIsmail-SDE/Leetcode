@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0112-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
