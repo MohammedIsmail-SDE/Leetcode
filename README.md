@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -68,6 +69,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -131,4 +133,8 @@
 | ------- |
 | [0048-rotate-image](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0054-spiral-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
