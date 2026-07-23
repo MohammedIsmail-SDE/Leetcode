@@ -1,14 +1,14 @@
 class Solution(object):
     def reverse(self, x):
-        # 1. Determine if the number is negative
-        sign = -1 if x < 0 else 1
-        
-        # 2. Reverse the absolute value using string slicing [::-1]
-        reversed_str = str(abs(x))[::-1]
-        reversed_int = sign * int(reversed_str)
-        
-        # 3. Check for 32-bit signed integer overflow bounds
-        if reversed_int < -2**31 or reversed_int > 2**31 - 1:
+        sign=-1 if x<0 else 1
+        res=0
+        x=abs(x)
+        while x>0:
+            ld=x%10
+            res=(res*10)+ld
+            x=x//10
+        res*=sign
+        if (res<-(2**31) or res>(2**31-1)):
             return 0
-            
-        return reversed_int
+        else:
+            return res
